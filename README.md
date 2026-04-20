@@ -1,7 +1,7 @@
 MHR-RAG: Multimodal Hybrid Reasoning Retrieval-Augmented Generation
 A production-ready, zero-cost multimodal RAG system supporting 22 Indian languages with efficient multilingual output generation.
 
-Table of Contents
+Table of Contents:
 Overview
 Key Features
 System Architecture
@@ -32,7 +32,7 @@ Monolingual or computationally expensive multilingual approaches that exclude lo
 Infrastructure requirements that prevent deployment in resource-constrained settings
 MHR-RAG addresses all three limitations simultaneously through strategic architectural innovations validated across 100 multimodal queries and published evaluation benchmarks.
 
-Key Features
+Key Features:
 Multimodal Processing
 PDF document parsing with text, table, and image extraction
 Audio transcription with timestamp preservation for temporal queries
